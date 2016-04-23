@@ -1,3 +1,5 @@
+##Trying to port the following to firefox
+
 #### Google Chrome extension: Trakt2KodiAddon
 
 **Requirements:**
